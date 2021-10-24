@@ -14,12 +14,12 @@
        
  * Add all files to staging area
  
-        git add -A <alias name> <branch>
+        git add -A
         
         
  * Add specific files to staging area
  
-        git add <filename> <alias name> <branch>
+        git add <filename>
         
  * Commit files
         
