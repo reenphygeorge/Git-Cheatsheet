@@ -1,5 +1,14 @@
 ## Git Commands ##
-* Locally initialize a github repo
+
+### Notes ###
+    
+* Open the required directory in any Unix terminal (Linux/ MacOS/ Git Bash).
+* alias name: eg: origin
+* branch: eg: master
+
+### Commands ###
+
+* Locally initialize a git repository
 
        git init
        
@@ -20,11 +29,6 @@
   
         git push <alias name> <branch>
       
-  * Clone a github repo
+  * Clone a git repository
   
-        git clone "<github repo url>"
-        
-   ### Notes ###
-    
-        alias name: eg: origin
-        branch: eg: master
+        git clone "<git repo url>"
