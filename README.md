@@ -32,3 +32,7 @@
   * Clone a git repository
   
         git clone "<git repo url>"
+  
+  * For more details
+  
+        git help
