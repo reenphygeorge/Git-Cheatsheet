@@ -8,14 +8,17 @@
 
 ### Commands ###
 
-* Locally initialize a git repository
+ * Locally initialize a git repository
 
        git init
+       
+ * To add remote repository
+
+        git remote add <alias name> <git repo url> 
        
  * Add all files to staging area
  
         git add -A
-        
         
  * Add specific files to staging area
  
@@ -31,8 +34,8 @@
       
   * Clone a git repository
   
-        git clone "<git repo url>"
+        git clone <git repo url>
   
-  * For more details
+  * For more argumets
   
         git help
