@@ -6,6 +6,16 @@
 * alias name: eg: origin
 * branch: eg: master
 
+### Configuring Git ###
+
+* Configuring username globally
+
+      git config --global user.name "<username>"
+
+* Configuring email globally
+
+      git config --global user.email "<email>"
+
 ### Commands ###
 
  * Locally initialize a git repository
@@ -35,6 +45,10 @@
   * Clone a git repository
   
         git clone <git repo url>
+
+  * To know the current status of a local git repository
+  
+        git status
   
   * For more arguments
   
