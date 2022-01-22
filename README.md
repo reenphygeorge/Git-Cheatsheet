@@ -36,6 +36,6 @@
   
         git clone <git repo url>
   
-  * For more argumets
+  * For more arguments
   
         git help
