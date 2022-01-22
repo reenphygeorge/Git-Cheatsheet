@@ -41,6 +41,10 @@
   * Push Files to github
   
         git push <alias name> <branch>
+        
+  * Pull: To sync remote repo with github repo
+  
+        git pull <alias name>
       
   * Clone a git repository
   
