@@ -53,7 +53,9 @@
   * To know the current status of a local git repository
   
         git status
-  
+  * To know the commit history
+
+        git log
   * For more arguments
   
         git help
