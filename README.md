@@ -6,6 +6,7 @@
 * alias name: eg: origin
 * branch: eg: master
 
+
 ### Configuring Git ###
 
 * Configuring username globally
