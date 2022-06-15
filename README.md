@@ -54,9 +54,15 @@
   * To know the current status of a local git repository
   
         git status
+        
   * To know the commit history
 
         git log
+        
+  * To switch git branch
+
+        git checkout -b <branch-name>
+  
   * For more arguments
   
         git help
