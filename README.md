@@ -25,7 +25,7 @@
        
  * To add remote repository
 
-        git remote add <alias name> <git repo url> 
+        git remote add <alias-name> <git repo url> 
        
  * Add all files to staging area
  
@@ -41,11 +41,11 @@
         
   * Push Files to github
   
-        git push <alias name> <branch>
+        git push <alias-name> <branch-name>
         
   * Pull: To sync remote repo with github repo
   
-        git pull <alias name>
+        git pull <alias-name>
       
   * Clone a git repository
   
