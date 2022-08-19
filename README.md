@@ -63,6 +63,12 @@
 
         git checkout -b <branch-name>
   
+  * To previous commit and discard all the latest commit after that
+  
+        git reset --hard <commit-hash>
+        
+        [commit-hash is available with git log command]
+  
   * For more arguments
   
         git help
