@@ -62,6 +62,10 @@
   * To switch git branch
 
         git checkout -b <branch-name>
+    
+  * To fetch a git branch from remote
+
+        git fetch <alias-name> <branch-name>
   
   * To previous commit and discard all the latest commit after that
   
