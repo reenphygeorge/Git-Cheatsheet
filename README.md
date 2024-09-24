@@ -73,6 +73,10 @@
         
         [commit-hash is available with git log command]
   
+  * To add project specific ssh keys
+
+          git config --local --add core.sshCommand 'ssh -i ~/.ssh/<ssh-key>' 
+  
   * For more arguments
   
         git help
