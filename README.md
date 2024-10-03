@@ -75,8 +75,12 @@
   
   * To add project specific ssh keys
 
-          git config --local --add core.sshCommand 'ssh -i ~/.ssh/<ssh-key>' 
+          git config --local --add core.sshCommand 'ssh -i ~/.ssh/<ssh-key>'
   
+  * To get a history of all the actions
+     
+          git reflog show
+    
   * For more arguments
   
         git help
